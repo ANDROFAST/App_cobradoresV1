@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ALMANZUR2</string>
+    <string name="prompt_user_id">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+</resources>
